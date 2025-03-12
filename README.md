@@ -17,7 +17,16 @@ BlueControl is a modern Android application built with Kotlin and Jetpack Compos
 
 ## 📸 Screenshots
 
-*Screenshots coming soon*
+
+### 📱 Home Screen  
+![Home Screen](screenshots/home_screen.png)
+
+### 🔍 Device Scanning  
+![Device Scanning](screenshots/device_scanning.png)
+
+### 📊 Live Data Monitoring  
+![Live Data](screenshots/live_data.png)
+
 
 ---
 
